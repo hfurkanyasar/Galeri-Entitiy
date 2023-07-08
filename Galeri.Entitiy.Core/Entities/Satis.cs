@@ -21,5 +21,6 @@ namespace Galeri.Entitiy.Core.Entities
 
         
         //command yeni düzenlemeler blablabla
+        //hfy deneme yapıldı
     }
 }
