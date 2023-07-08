@@ -29,6 +29,6 @@ namespace Galeri.Entitiy.Core.Entities
             return KM + "KM " + Marka + " " + Renk + " " + Model;
         }
 
-
+        //arac calass sdüzenlemeleriii
     }
 }

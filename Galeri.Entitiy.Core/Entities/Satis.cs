@@ -20,6 +20,6 @@ namespace Galeri.Entitiy.Core.Entities
         public Decimal SatisFiyatı { get; set; }
 
         
-
+        //command yeni düzenlemeler blablabla
     }
 }
